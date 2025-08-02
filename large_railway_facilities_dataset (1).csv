@@ -1,0 +1,239 @@
+Station Code,Station Name,Facility Type,Location,X,Y
+NDLS,New Delhi,Parking Area,Platform 7 - South,256,422
+NDLS,New Delhi,Ticket Counter,Platform 8 - North,315,247
+NDLS,New Delhi,Food Court,Platform 8 - East,411,357
+NDLS,New Delhi,Inquiry Counter,Platform 2 - East,458,412
+HWH,Howrah Junction,Food Court,Platform 2 - South,425,487
+HWH,Howrah Junction,Waiting Room,Platform 3 - North,154,459
+HWH,Howrah Junction,Inquiry Counter,Platform 3 - South,107,244
+HWH,Howrah Junction,Toilet,Platform 9 - West,346,389
+HWH,Howrah Junction,Parking Area,Platform 10 - North,383,444
+HWH,Howrah Junction,Ticket Counter,Platform 1 - North,190,128
+CSMT,Chhatrapati Shivaji Terminus,Inquiry Counter,Platform 9 - North,255,417
+CSMT,Chhatrapati Shivaji Terminus,Waiting Room,Platform 3 - North,132,138
+CSMT,Chhatrapati Shivaji Terminus,Food Court,Platform 4 - East,454,349
+CSMT,Chhatrapati Shivaji Terminus,Toilet,Platform 10 - North,430,63
+MAS,Chennai Central,Food Court,Platform 9 - West,362,479
+MAS,Chennai Central,Inquiry Counter,Platform 6 - East,449,302
+MAS,Chennai Central,Toilet,Platform 1 - North,401,380
+MAS,Chennai Central,Waiting Room,Platform 9 - North,434,191
+SBC,KSR Bengaluru,Ticket Counter,Platform 6 - South,110,326
+SBC,KSR Bengaluru,Parking Area,Platform 7 - South,417,369
+SBC,KSR Bengaluru,Food Court,Platform 1 - North,127,447
+SBC,KSR Bengaluru,Toilet,Platform 1 - West,298,500
+SBC,KSR Bengaluru,Waiting Room,Platform 6 - West,93,249
+BCT,Mumbai Central,Waiting Room,Platform 8 - East,176,91
+BCT,Mumbai Central,Inquiry Counter,Platform 10 - East,128,212
+BCT,Mumbai Central,Toilet,Platform 3 - West,146,403
+BCT,Mumbai Central,Food Court,Platform 9 - East,52,247
+BCT,Mumbai Central,Ticket Counter,Platform 9 - South,340,417
+LKO,Lucknow NR,Food Court,Platform 5 - North,278,458
+LKO,Lucknow NR,Ticket Counter,Platform 8 - West,154,146
+LKO,Lucknow NR,Waiting Room,Platform 7 - West,465,125
+LKO,Lucknow NR,Parking Area,Platform 10 - East,97,87
+PNBE,Patna Junction,Toilet,Platform 4 - North,304,440
+PNBE,Patna Junction,Parking Area,Platform 2 - North,390,135
+PNBE,Patna Junction,Ticket Counter,Platform 8 - East,366,462
+PNBE,Patna Junction,Food Court,Platform 9 - West,153,457
+PNBE,Patna Junction,Waiting Room,Platform 4 - South,407,156
+PNBE,Patna Junction,Inquiry Counter,Platform 5 - South,53,337
+BBS,Bhubaneswar,Waiting Room,Platform 6 - West,457,120
+BBS,Bhubaneswar,Toilet,Platform 3 - North,83,124
+BBS,Bhubaneswar,Ticket Counter,Platform 10 - East,202,409
+BBS,Bhubaneswar,Food Court,Platform 1 - North,79,217
+BBS,Bhubaneswar,Parking Area,Platform 10 - South,74,390
+ADI,Ahmedabad Jn,Ticket Counter,Platform 4 - North,262,263
+ADI,Ahmedabad Jn,Waiting Room,Platform 4 - East,114,475
+ADI,Ahmedabad Jn,Food Court,Platform 10 - West,321,431
+ADI,Ahmedabad Jn,Parking Area,Platform 5 - South,334,111
+ADI,Ahmedabad Jn,Inquiry Counter,Platform 1 - East,398,465
+ADI,Ahmedabad Jn,Toilet,Platform 8 - West,170,279
+NZM,Hazrat Nizamuddin,Ticket Counter,Platform 7 - West,370,431
+NZM,Hazrat Nizamuddin,Toilet,Platform 8 - West,235,374
+NZM,Hazrat Nizamuddin,Inquiry Counter,Platform 4 - West,379,221
+NZM,Hazrat Nizamuddin,Food Court,Platform 10 - East,261,170
+BPL,Bhopal Jn,Waiting Room,Platform 6 - South,368,133
+BPL,Bhopal Jn,Parking Area,Platform 8 - South,487,144
+BPL,Bhopal Jn,Food Court,Platform 8 - North,198,345
+BPL,Bhopal Jn,Toilet,Platform 9 - South,171,186
+BPL,Bhopal Jn,Inquiry Counter,Platform 3 - West,261,403
+JAT,Jammu Tawi,Toilet,Platform 5 - South,281,176
+JAT,Jammu Tawi,Parking Area,Platform 7 - West,72,150
+JAT,Jammu Tawi,Ticket Counter,Platform 9 - North,494,356
+JAT,Jammu Tawi,Inquiry Counter,Platform 8 - North,263,391
+JAT,Jammu Tawi,Food Court,Platform 7 - South,204,487
+CNB,Kanpur Central,Ticket Counter,Platform 10 - North,192,332
+CNB,Kanpur Central,Waiting Room,Platform 10 - East,415,446
+CNB,Kanpur Central,Food Court,Platform 8 - East,375,81
+CNB,Kanpur Central,Toilet,Platform 4 - North,404,381
+CNB,Kanpur Central,Inquiry Counter,Platform 5 - North,177,382
+GKP,Gorakhpur Jn,Ticket Counter,Platform 6 - East,274,276
+GKP,Gorakhpur Jn,Waiting Room,Platform 4 - North,498,405
+GKP,Gorakhpur Jn,Parking Area,Platform 9 - West,252,373
+GKP,Gorakhpur Jn,Food Court,Platform 5 - East,413,132
+SC,Secunderabad,Inquiry Counter,Platform 3 - West,361,331
+SC,Secunderabad,Food Court,Platform 8 - East,401,331
+SC,Secunderabad,Waiting Room,Platform 9 - North,266,407
+SC,Secunderabad,Toilet,Platform 1 - North,369,492
+ERS,Ernakulam Jn,Inquiry Counter,Platform 1 - East,214,112
+ERS,Ernakulam Jn,Ticket Counter,Platform 2 - West,371,185
+ERS,Ernakulam Jn,Food Court,Platform 10 - West,243,78
+ERS,Ernakulam Jn,Waiting Room,Platform 1 - North,183,471
+ERS,Ernakulam Jn,Toilet,Platform 4 - South,416,413
+ERS,Ernakulam Jn,Parking Area,Platform 6 - West,172,111
+ASR,Amritsar Jn,Waiting Room,Platform 5 - South,421,307
+ASR,Amritsar Jn,Inquiry Counter,Platform 1 - East,240,315
+ASR,Amritsar Jn,Ticket Counter,Platform 3 - West,420,79
+ASR,Amritsar Jn,Food Court,Platform 7 - East,230,460
+ASR,Amritsar Jn,Parking Area,Platform 2 - North,300,226
+ASR,Amritsar Jn,Toilet,Platform 2 - East,66,358
+TVC,Trivandrum Central,Toilet,Platform 2 - West,200,225
+TVC,Trivandrum Central,Waiting Room,Platform 5 - North,423,257
+TVC,Trivandrum Central,Food Court,Platform 6 - North,398,368
+TVC,Trivandrum Central,Parking Area,Platform 9 - South,234,140
+TVC,Trivandrum Central,Ticket Counter,Platform 9 - East,204,311
+GAYA,Gaya Jn,Parking Area,Platform 2 - East,244,419
+GAYA,Gaya Jn,Ticket Counter,Platform 6 - North,355,110
+GAYA,Gaya Jn,Toilet,Platform 8 - East,93,198
+GAYA,Gaya Jn,Waiting Room,Platform 3 - West,460,334
+GAYA,Gaya Jn,Inquiry Counter,Platform 9 - West,228,349
+GAYA,Gaya Jn,Food Court,Platform 7 - South,423,319
+RNC,Ranchi,Waiting Room,Platform 2 - North,206,475
+RNC,Ranchi,Parking Area,Platform 10 - South,286,98
+RNC,Ranchi,Inquiry Counter,Platform 3 - South,408,497
+RNC,Ranchi,Toilet,Platform 8 - South,214,164
+RNC,Ranchi,Food Court,Platform 6 - South,341,356
+RNC,Ranchi,Ticket Counter,Platform 9 - South,119,178
+DBG,Darbhanga Jn,Toilet,Platform 5 - South,179,309
+DBG,Darbhanga Jn,Inquiry Counter,Platform 3 - West,98,196
+DBG,Darbhanga Jn,Parking Area,Platform 3 - North,325,275
+DBG,Darbhanga Jn,Waiting Room,Platform 1 - North,169,84
+KOAA,Kolkata,Inquiry Counter,Platform 4 - East,267,329
+KOAA,Kolkata,Parking Area,Platform 8 - North,495,90
+KOAA,Kolkata,Waiting Room,Platform 3 - North,243,82
+KOAA,Kolkata,Toilet,Platform 4 - West,313,387
+KOAA,Kolkata,Ticket Counter,Platform 5 - West,363,457
+RMM,Rameswaram,Toilet,Platform 9 - West,135,150
+RMM,Rameswaram,Food Court,Platform 10 - South,284,94
+RMM,Rameswaram,Parking Area,Platform 3 - West,72,419
+RMM,Rameswaram,Ticket Counter,Platform 1 - West,63,341
+RMM,Rameswaram,Waiting Room,Platform 6 - South,139,321
+RMM,Rameswaram,Inquiry Counter,Platform 3 - South,466,114
+GHY,Guwahati,Food Court,Platform 5 - South,369,328
+GHY,Guwahati,Toilet,Platform 4 - North,428,283
+GHY,Guwahati,Inquiry Counter,Platform 1 - East,219,169
+GHY,Guwahati,Parking Area,Platform 3 - East,255,148
+GHY,Guwahati,Ticket Counter,Platform 6 - West,368,341
+GHY,Guwahati,Waiting Room,Platform 3 - North,499,252
+JP,Jaipur Jn,Toilet,Platform 8 - South,79,166
+JP,Jaipur Jn,Inquiry Counter,Platform 8 - East,311,210
+JP,Jaipur Jn,Ticket Counter,Platform 2 - North,334,242
+JP,Jaipur Jn,Parking Area,Platform 8 - South,93,357
+PTA,Patiala,Toilet,Platform 10 - North,416,358
+PTA,Patiala,Waiting Room,Platform 5 - West,296,73
+PTA,Patiala,Parking Area,Platform 10 - North,67,341
+PTA,Patiala,Ticket Counter,Platform 5 - West,353,208
+FZR,Firozpur,Waiting Room,Platform 5 - East,292,472
+FZR,Firozpur,Ticket Counter,Platform 1 - North,219,220
+FZR,Firozpur,Parking Area,Platform 10 - South,395,163
+FZR,Firozpur,Inquiry Counter,Platform 3 - North,484,423
+FZR,Firozpur,Food Court,Platform 5 - South,442,498
+MYS,Mysuru Jn,Food Court,Platform 7 - North,422,313
+MYS,Mysuru Jn,Toilet,Platform 2 - South,375,392
+MYS,Mysuru Jn,Ticket Counter,Platform 6 - North,120,325
+MYS,Mysuru Jn,Inquiry Counter,Platform 6 - West,50,382
+MYS,Mysuru Jn,Waiting Room,Platform 10 - North,183,190
+HYB,Hyderabad Deccan,Parking Area,Platform 6 - South,380,191
+HYB,Hyderabad Deccan,Toilet,Platform 5 - West,108,268
+HYB,Hyderabad Deccan,Ticket Counter,Platform 2 - North,113,366
+HYB,Hyderabad Deccan,Inquiry Counter,Platform 7 - East,255,158
+HYB,Hyderabad Deccan,Food Court,Platform 7 - South,328,274
+ET,Itarsi Jn,Ticket Counter,Platform 7 - South,109,340
+ET,Itarsi Jn,Inquiry Counter,Platform 9 - West,62,193
+ET,Itarsi Jn,Waiting Room,Platform 6 - South,92,137
+ET,Itarsi Jn,Food Court,Platform 4 - North,420,60
+ET,Itarsi Jn,Parking Area,Platform 8 - North,363,277
+ET,Itarsi Jn,Toilet,Platform 1 - East,84,339
+RJT,Rajkot Jn,Inquiry Counter,Platform 3 - South,500,69
+RJT,Rajkot Jn,Food Court,Platform 6 - East,103,424
+RJT,Rajkot Jn,Parking Area,Platform 6 - North,201,424
+RJT,Rajkot Jn,Waiting Room,Platform 2 - West,252,315
+RJT,Rajkot Jn,Ticket Counter,Platform 3 - North,51,426
+SUR,Solapur,Food Court,Platform 2 - South,225,495
+SUR,Solapur,Waiting Room,Platform 2 - South,176,499
+SUR,Solapur,Parking Area,Platform 8 - East,96,315
+SUR,Solapur,Toilet,Platform 7 - West,474,231
+UBL,Hubli Jn,Food Court,Platform 7 - West,268,173
+UBL,Hubli Jn,Waiting Room,Platform 9 - East,468,485
+UBL,Hubli Jn,Toilet,Platform 3 - East,462,132
+UBL,Hubli Jn,Ticket Counter,Platform 9 - North,109,363
+UBL,Hubli Jn,Parking Area,Platform 2 - East,490,150
+GNT,Guntur Jn,Toilet,Platform 4 - North,92,56
+GNT,Guntur Jn,Food Court,Platform 5 - South,154,142
+GNT,Guntur Jn,Waiting Room,Platform 9 - East,150,331
+GNT,Guntur Jn,Inquiry Counter,Platform 3 - South,470,344
+GNT,Guntur Jn,Parking Area,Platform 5 - East,405,213
+KGP,Kharagpur Jn,Ticket Counter,Platform 6 - North,473,210
+KGP,Kharagpur Jn,Toilet,Platform 10 - East,346,66
+KGP,Kharagpur Jn,Parking Area,Platform 2 - West,414,465
+KGP,Kharagpur Jn,Inquiry Counter,Platform 6 - North,454,111
+DDN,Dehradun,Ticket Counter,Platform 6 - South,490,468
+DDN,Dehradun,Food Court,Platform 10 - North,367,421
+DDN,Dehradun,Toilet,Platform 8 - South,452,81
+DDN,Dehradun,Inquiry Counter,Platform 1 - West,128,98
+DDN,Dehradun,Waiting Room,Platform 9 - North,296,182
+RIG,Raigarh,Inquiry Counter,Platform 6 - East,403,407
+RIG,Raigarh,Parking Area,Platform 3 - East,109,209
+RIG,Raigarh,Toilet,Platform 7 - South,402,250
+RIG,Raigarh,Ticket Counter,Platform 2 - East,222,216
+MAQ,Mangalore Central,Waiting Room,Platform 7 - North,103,202
+MAQ,Mangalore Central,Parking Area,Platform 3 - West,212,412
+MAQ,Mangalore Central,Toilet,Platform 6 - North,431,225
+MAQ,Mangalore Central,Inquiry Counter,Platform 8 - North,220,103
+MAQ,Mangalore Central,Food Court,Platform 7 - South,480,64
+MAQ,Mangalore Central,Ticket Counter,Platform 8 - West,358,303
+BDTS,Bandra Terminus,Waiting Room,Platform 1 - North,168,93
+BDTS,Bandra Terminus,Food Court,Platform 9 - North,337,284
+BDTS,Bandra Terminus,Ticket Counter,Platform 1 - South,199,289
+BDTS,Bandra Terminus,Parking Area,Platform 8 - North,338,445
+BDTS,Bandra Terminus,Inquiry Counter,Platform 9 - East,486,160
+BDTS,Bandra Terminus,Toilet,Platform 6 - South,416,360
+SGNR,Shri Ganganagar,Waiting Room,Platform 7 - East,78,123
+SGNR,Shri Ganganagar,Inquiry Counter,Platform 3 - South,474,470
+SGNR,Shri Ganganagar,Toilet,Platform 8 - North,486,355
+SGNR,Shri Ganganagar,Parking Area,Platform 9 - East,129,301
+SGNR,Shri Ganganagar,Ticket Counter,Platform 7 - West,220,219
+UJN,Ujjain Jn,Food Court,Platform 8 - East,279,445
+UJN,Ujjain Jn,Inquiry Counter,Platform 2 - North,282,226
+UJN,Ujjain Jn,Waiting Room,Platform 9 - East,262,498
+UJN,Ujjain Jn,Parking Area,Platform 9 - North,494,338
+NJP,New Jalpaiguri,Food Court,Platform 10 - South,97,498
+NJP,New Jalpaiguri,Ticket Counter,Platform 10 - East,67,431
+NJP,New Jalpaiguri,Waiting Room,Platform 10 - West,407,327
+NJP,New Jalpaiguri,Toilet,Platform 7 - North,261,473
+SA,Salem Jn,Ticket Counter,Platform 10 - North,233,103
+SA,Salem Jn,Toilet,Platform 9 - South,229,274
+SA,Salem Jn,Food Court,Platform 4 - North,392,100
+SA,Salem Jn,Inquiry Counter,Platform 4 - South,324,227
+SA,Salem Jn,Waiting Room,Platform 8 - East,316,487
+ED,Erode Jn,Food Court,Platform 2 - West,128,421
+ED,Erode Jn,Ticket Counter,Platform 2 - East,432,485
+ED,Erode Jn,Waiting Room,Platform 1 - North,244,172
+ED,Erode Jn,Parking Area,Platform 9 - East,166,224
+NLR,Nellore,Waiting Room,Platform 8 - West,437,184
+NLR,Nellore,Toilet,Platform 5 - East,60,372
+NLR,Nellore,Food Court,Platform 5 - North,351,268
+NLR,Nellore,Inquiry Counter,Platform 8 - West,473,330
+BPQ,Balharshah,Food Court,Platform 3 - South,323,99
+BPQ,Balharshah,Parking Area,Platform 1 - North,319,163
+BPQ,Balharshah,Inquiry Counter,Platform 1 - South,356,267
+BPQ,Balharshah,Ticket Counter,Platform 9 - East,188,357
+BPQ,Balharshah,Toilet,Platform 9 - South,241,129
+DURG,Durg,Ticket Counter,Platform 1 - North,242,155
+DURG,Durg,Inquiry Counter,Platform 6 - North,274,443
+DURG,Durg,Waiting Room,Platform 10 - East,115,149
+DURG,Durg,Parking Area,Platform 1 - West,210,218
+BZA,Vijayawada Jn,Food Court,Platform 4 - South,174,263
+BZA,Vijayawada Jn,Waiting Room,Platform 7 - East,351,188
+BZA,Vijayawada Jn,Inquiry Counter,Platform 4 - North,302,466
+BZA,Vijayawada Jn,Parking Area,Platform 9 - South,159,294
